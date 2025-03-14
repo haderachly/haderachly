@@ -1,7 +1,7 @@
 ## About Me
 > [In English](./README.md) &nbsp; · &nbsp; [resume](./TaesunYoum_Resume.pdf) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/taesun-youm-b9178b1b6/)
 
-![header](https://capsule-render.vercel.app/api?type=venom&&color=0:11998E,100:38EF7D&height=300&section=header&text=염태선&fontColor=FFFFFF&animation=twinkling&stroke=FFFFFF&strokeWidth=1.2)
+![header](https://capsule-render.vercel.app/api?type=venom&&color=0:11998E,100:38EF7D&height=300&section=header&text=염태선입니다&fontColor=FFFFFF&animation=twinkling&stroke=FFFFFF&strokeWidth=1.2)
 
 ### 학력사항
 - [성균관대학교](https://www.skku.ac.kr/skku/index.do) 데이터사이언스융합학과 & 소비자학과 복수전공 (19학번)
