@@ -11,6 +11,14 @@
 ### Interests
 - Machine Learning, MLOps, AI/ML Solution Architecture, Solution Engineering & Forward Development
 
+### 🛠️ Skills
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,regex,r,docker,kubernetes,js,html,css,git,bash" />
+  </a>
+  <br/>
+</p>
+
 ### Experiences
 - (2024.03-2024.10) Administrative Assistant @ [KIAT](https://kiat.or.kr/eng/user/main.do)
 - (2022.10-2023.05) B2B Sales Intern @ [Ringle](https://www.ringleplus.com/en/student/landing/home)
@@ -24,7 +32,7 @@
 ### 📚 Scholarships
 - 2024 KIAT(Korea Institute for Advancement of Technology) Korea-U.S. Youth Exchange Program Scholar in High-tech Fields
 
-## Stats
+## Stats (Private repos not tracked yet)
 
 ![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liamtsy&count_private=true&show_icons=true&theme=shadow_green)
 ![Liam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liamtsy&layout=compact)
