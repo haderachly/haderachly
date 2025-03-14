@@ -20,7 +20,7 @@
 </p>
 
 ### Experiences
-- (2024.03-2024.10) Administrative Assistant @ [KIAT](https://kiat.or.kr/eng/user/main.do)
+- (2024.03-2024.06) Administrative Assistant @ [KIAT](https://kiat.or.kr/eng/user/main.do)
 - (2022.10-2023.05) B2B Sales Intern @ [Ringle](https://www.ringleplus.com/en/student/landing/home)
 
 ### ⚡ Projects
