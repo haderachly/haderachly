@@ -1,7 +1,7 @@
 ## About Me
 > [한국어로 보기](./korean.md) &nbsp; · &nbsp; [resume](./TaesunYoum_Resume) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/taesun-youm-b9178b1b6/)
 
-![header](https://capsule-render.vercel.app/api?type=venom&&color=0:11998E,100:38EF7D&height=300&section=header&text=Liam%20Youm%20:ocean:&fontColor=FFFFFF&animation=twinkling&stroke=FFFFFF&strokeWidth=1.2)
+![header](https://capsule-render.vercel.app/api?type=venom&&color=0:11998E,100:38EF7D&height=300&section=header&text=Liam%20Youm%20%F0%9F%8C%8A&fontColor=FFFFFF&animation=twinkling&stroke=FFFFFF&strokeWidth=1.2)
 
 ### Education
 - [Sungkyunkwan University](https://www.skku.ac.kr/skku/index.do) Data Science & Consumer Science (Class of 2023)
