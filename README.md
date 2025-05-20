@@ -9,7 +9,7 @@
 - [Hana Academy Seoul](https://eng.hana.hs.kr/main.do) (Class of 2019)
 
 ### Interests
-- Machine Learning, MLOps, AI/ML Solution Architecture, Solution Engineering & Forward Development
+- Data Science, Product analytics, Machine Learning, MLOps, AI/ML Enginerring
 
 ### 🛠️ Skills
 <p>
