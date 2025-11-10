@@ -14,7 +14,7 @@
 ### 🛠️ Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,regex,r,docker,kubernetes,c,js,html,css,git,bash" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,numpy,pandas,regex,c,git,bash" />
   </a>
   <br/>
 </p>
