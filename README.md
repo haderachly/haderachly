@@ -9,12 +9,12 @@
 - [Hana Academy Seoul](https://eng.hana.hs.kr/main.do) (Class of 2019)
 
 ### Interests
-- Data Science, Product analytics, Machine Learning, MLOps, AI/ML Enginerring
+- Data Science, Machine Learning, MLOps, AI/ML Enginerring
 
 ### 🛠️ Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,numpy,pandas,regex,c,git,bash" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,regex,c,git,bash" />
   </a>
   <br/>
 </p>
