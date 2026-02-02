@@ -19,6 +19,7 @@
 </p>
 
 ### Experiences
+- (2026.01-2026.02) AX strategy team intern @ [Korea Banking Institute](https://www.kbi.or.kr/platformWeb/Common.do?cmd=goIndex)
 - (2024.03-2024.06) Administrative Assistant @ [KIAT](https://kiat.or.kr/eng/user/main.do)
 - (2022.10-2023.05) B2B Sales Intern @ [Ringle](https://www.ringleplus.com/en/student/landing/home)
 
@@ -27,6 +28,7 @@
 
 ### 🎖️ Certifications
 - Languages: TOEFL 102/120 (2024.01)
+- ADsP
 
 ### 📚 Scholarships
 - 2024 KIAT(Korea Institute for Advancement of Technology) Korea-U.S. Youth Exchange Program Scholar in High-tech Fields
