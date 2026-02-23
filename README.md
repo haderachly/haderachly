@@ -27,7 +27,7 @@
 - (2025.01-2025.03) [CNN model for predicting facial expressions](https://github.com/Q-bh/cmpm-17-final-project)
 
 ### 🎖️ Certifications
-- Languages: TOEFL 102/120 (2024.01)
+- Languages: TOEFL 102/120 (2024.01), OPIC AL (2026.02)
 - ADsP
 
 ### 📚 Scholarships
