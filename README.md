@@ -13,7 +13,7 @@
 ### 🛠️ Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,regex,c,git,bash" />
+    <img src="https://skillicons.dev/icons?i=py,js,c,pytorch,sklearn,regex,git,jquery,bootstrap,flask,mongodb" />
   </a>
   <br/>
 </p>
