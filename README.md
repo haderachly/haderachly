@@ -33,6 +33,9 @@
 ### 📚 Scholarships
 - 2024 KIAT(Korea Institute for Advancement of Technology) Korea-U.S. Youth Exchange Program Scholar in High-tech Fields
 
+### 👥 Groups
+- Krafton Jungle 12th
+
 ## Stats (Private repos not tracked yet)
 
 ![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liamtsy&count_private=true&show_icons=true&theme=shadow_green)
