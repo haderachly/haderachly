@@ -9,12 +9,12 @@
 - [하나고등학교](https://www.hana.hs.kr/main.do) (2019년 졸업, 7기)
 
 ### 관심분야
-- 풀스택 엔지니어링, 머신러닝, 솔루션 엔지니어링, 인공지능 개발
+- 데이터사이언스, 풀스택 엔지니어링, 머신러닝, 솔루션 엔지니어링, 인공지능 개발
 
 ### 기술스택
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,regex,r,docker,kubernetes,c,js,html,css,git,bash" />
+    <img src="https://skillicons.dev/icons?i=py,js,c,pytorch,sklearn,regex,git,jquery,bootstrap,flask,mongodb" />
   </a>
   <br/>
 </p>
